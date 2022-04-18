@@ -1,18 +1,18 @@
 # A simple CLI tool for arithmetic quiz
-Create a csv file with problem sums and seperate it with comma
+### Create a csv file with problem sums and seperate it with comma
 
-##Example
-1+1,5
-2+2,4
-4-1,3
+### Example
+#### 1+1,5 
+#### 2+2,4
+#### 4-1,3
 
-#Flags
--f = specifiy file path
--s = shuffle the file contents
+# Flags
+### -f = specify file path
+### -s = shuffle the file contents
 
-#Usage
+# Usage information 
 
-quit -h
+### quit -h
 
-#Example
-quit -f file.csv -s
+# Example
+### quit -f file.csv -s
