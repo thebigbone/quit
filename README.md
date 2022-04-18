@@ -2,7 +2,7 @@
 ### Create a csv file with problem sums and seperate it with comma
 
 ### Example
-#### 1+1,5 
+#### 1+1,2
 #### 2+2,4
 #### 4-1,3
 
