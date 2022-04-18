@@ -1,5 +1,5 @@
 # A simple CLI tool for arithmetic quiz
-### Create a csv file with problem sums and seperate it with comma
+### Create a csv file with problems and seperate questions and answers with a comma
 
 ### Example
 #### 1+1,2
