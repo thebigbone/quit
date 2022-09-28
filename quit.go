@@ -13,7 +13,7 @@ import (
 func main()  {
   var shufflee string
   csv_file := flag.String("f", "efj.csv", "read file path with -f") //bunch of flags
-  flag.StringVar(&shufflee, "s", "", "shuffle the entries in your file, you have to pass double quotes")
+  /* flag.StringVar(&shufflee, "s", "", "shuffle the entries in your file, you have to pass double quotes")*/
   flag.Parse()
 
 

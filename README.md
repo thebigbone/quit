@@ -18,5 +18,5 @@
 >   - 1+2,4
 >   - 3*8,24
 >   - 2-1,1
-> - quit -f /your-file/path/problems.csv -s "" 
-> - -f specifies file path and -s will shuffle the contents. More flags will be added.
+> - quit -f /your-file/path/problems.csv 
+> - -f specifies file path. It will shuffle the questions by default.
